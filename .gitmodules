@@ -4,3 +4,6 @@
 [submodule "Portfolio_analysis"]
 	path = Portfolio_analysis
 	url = git@github.com:pkroy1991/Portfolio_analysis.git
+[submodule "IV"]
+	path = IV
+	url = git@github.com:pkroy1991/IV.git
