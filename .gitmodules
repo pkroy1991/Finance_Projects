@@ -7,3 +7,6 @@
 [submodule "IV"]
 	path = IV
 	url = git@github.com:pkroy1991/IV.git
+[submodule "Project-2-Tail-Distribution"]
+	path = Project-2-Tail-Distribution
+	url = git@github.com:pkroy1991/Equity_Tail_Distribution.git
