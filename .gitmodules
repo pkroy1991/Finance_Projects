@@ -7,9 +7,6 @@
 [submodule "IV"]
 	path = IV
 	url = git@github.com:pkroy1991/IV.git
-[submodule "Project-2-Tail-Distribution"]
-	path = Tail-Distribution
-	url = git@github.com:pkroy1991/Equity_Tail_Distribution.git
 [submodule "Tail-Distribution"]
 	path = Tail-Distribution
 	url = https://github.com/yourusername/Tail-Distribution.git
